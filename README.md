@@ -8,3 +8,5 @@ Look in the top-right. You will see moves, keys left, and
 
 My time is 30:00 medium. Try beating my time on medium.
 Mr. Alexander pls give me 40pt ec.
+
+Feel free to clone the code and try it out!
